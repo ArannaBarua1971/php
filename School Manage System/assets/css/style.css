@@ -1,0 +1,8 @@
+body{
+    color:#fff;
+}
+select {
+    padding: 8px;
+    width:90%;
+    border-radius: 8px;
+}
